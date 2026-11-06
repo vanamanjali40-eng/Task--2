@@ -1,0 +1,33 @@
+Order_Date,Region,Category,Sub_Category,Product,Quantity,Unit_Price,Sales,Profit
+2025-01-05,North,Furniture,Chairs,Office Chair,4,1800,7200,900.0
+2025-01-12,South,Technology,Phones,Smartphone,3,12000,36000,5400.0
+2025-01-19,East,Office Supplies,Binders,Binder Pack,10,120,1200,180.0
+2025-02-03,West,Furniture,Tables,Study Table,2,6500,13000,-650.0
+2025-02-14,North,Technology,Accessories,Wireless Mouse,8,650,5200,1040.0
+2025-02-20,South,Office Supplies,Paper,A4 Paper Box,15,280,4200,840.0
+2025-03-02,East,Furniture,Bookcases,Bookshelf,2,4200,8400,1260.0
+2025-03-11,West,Technology,Phones,Feature Phone,5,3500,17500,2625.0
+2025-03-22,North,Office Supplies,Storage,Storage Box,12,450,5400,810.0
+2025-04-04,South,Furniture,Chairs,Dining Chair,6,1400,8400,1260.0
+2025-04-16,East,Technology,Accessories,Keyboard,7,900,6300,1260.0
+2025-04-27,West,Office Supplies,Binders,File Binder,20,95,1900,380.0
+2025-05-06,North,Technology,Phones,Smartphone,4,11500,46000,6900.0
+2025-05-18,South,Furniture,Tables,Dining Table,1,9000,9000,-900.0
+2025-05-29,East,Office Supplies,Paper,Notebook Pack,25,80,2000,500.0
+2025-06-07,West,Technology,Accessories,Headphones,5,1600,8000,1600.0
+2025-06-19,North,Furniture,Bookcases,Bookshelf,3,3900,11700,1755.0
+2025-06-28,South,Office Supplies,Storage,Storage Rack,4,1250,5000,750.0
+2025-07-09,East,Technology,Phones,Smartphone,2,12500,25000,3750.0
+2025-07-21,West,Furniture,Chairs,Office Chair,7,1750,12250,1837.5
+2025-08-02,North,Office Supplies,Paper,A4 Paper Box,18,275,4950,990.0
+2025-08-15,South,Technology,Accessories,Wireless Mouse,10,600,6000,1200.0
+2025-08-26,East,Furniture,Tables,Study Table,3,6200,18600,2790.0
+2025-09-08,West,Office Supplies,Binders,Binder Pack,14,110,1540,231.0
+2025-09-20,North,Technology,Phones,Feature Phone,6,3300,19800,2970.0
+2025-10-03,South,Furniture,Chairs,Dining Chair,5,1500,7500,1125.0
+2025-10-17,East,Office Supplies,Storage,Storage Box,16,430,6880,1032.0
+2025-10-29,West,Technology,Accessories,Keyboard,9,850,7650,1530.0
+2025-11-06,North,Furniture,Bookcases,Bookshelf,2,4400,8800,1320.0
+2025-11-19,South,Technology,Phones,Smartphone,5,11800,59000,8850.0
+2025-12-04,East,Office Supplies,Paper,Notebook Pack,30,75,2250,562.5
+2025-12-18,West,Furniture,Tables,Dining Table,2,8700,17400,-870.0
