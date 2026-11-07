@@ -50,14 +50,5 @@ python task2_visualization.py
 
 > These findings are based on the included synthetic practice dataset, not on actual company sales.
 
-## Interview questions — short answers
-1. **Why is data visualization important?** It makes patterns, comparisons, and trends easier to understand.
-2. **Pie chart vs bar chart?** A pie chart shows parts of a whole; a bar chart compares values across categories.
-3. **How can visuals be engaging?** Use clear titles, readable labels, suitable charts, limited colors, and highlighted insights.
-4. **What is data storytelling?** Combining data, visuals, and explanation to communicate a useful message.
-5. **How do you avoid misleading visuals?** Use correct scales, show context, label units, and do not hide relevant data.
-6. **Dashboard best practices?** Keep it simple, organize related charts, use consistent colors, and highlight important KPIs.
-7. **Which tools are used?** This project uses Python, Pandas, and Matplotlib. Tableau and Power BI are other common tools.
-
 ## Conclusion
 The project demonstrates a complete beginner-friendly workflow: load sales data, clean it, analyze performance, create charts, and communicate business insights.
